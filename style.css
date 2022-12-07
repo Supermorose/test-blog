@@ -1,0 +1,12 @@
+body > p {
+    font-family: "Courier New", sans-serif;
+    font-size: 12px;
+}
+
+h3 {
+    font-family: Arial, sans-serif;
+}
+dl, ul{
+    font-family: "Courier New", sans-serif;
+    font-size: 12px;
+}
