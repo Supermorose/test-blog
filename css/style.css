@@ -21,7 +21,7 @@ dl, ul{
     float: left;
     color: black;
     text-align: center;
-    font-size: 18px;
+    font-size: 14px;
     padding: 14px 16px;
     text-decoration: none;
 }
@@ -32,6 +32,6 @@ dl, ul{
 }
 
 .topnav a.active {
-    background-color: #6e995d2c;
+    background-color: white;
     color: black;
 }
